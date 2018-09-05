@@ -1,0 +1,14 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "565fc35678111c88eee998b195c484c4"
+build_time: [1530707852, 749803000]
+inputs:
+  "/Users/IG101/Documents/Heramb/StoreIT/StoreIT/StoreTask/StoreTask/View Controllers/ViewController.swift": [1530697345, 0]
+  "/Users/IG101/Documents/Heramb/StoreIT/StoreIT/StoreTask/StoreTask/Constant/Constant.swift": [1530440348, 0]
+  "/Users/IG101/Documents/Heramb/StoreIT/StoreIT/StoreTask/StoreTask/DatabaseManager/Product+CoreDataProperties.swift": [1530707215, 0]
+  "/Users/IG101/Documents/Heramb/StoreIT/StoreIT/StoreTask/StoreTask/DatabaseManager/Product+CoreDataClass.swift": [1530707215, 0]
+  "/Users/IG101/Documents/Heramb/StoreIT/StoreIT/StoreTask/StoreTask/Utility/Utils.swift": [1530696569, 0]
+  "/Users/IG101/Documents/Heramb/StoreIT/StoreIT/StoreTask/StoreTask/View Controllers/DetailViewController.swift": [1530704852, 0]
+  "/Users/IG101/Documents/Heramb/StoreIT/StoreIT/StoreTask/StoreTask/AppDelegate.swift": [1530707568, 0]
+  "/Users/IG101/Documents/Heramb/StoreIT/StoreIT/StoreTask/StoreTask/DatabaseManager/CoreDataManager.swift": [1530704824, 0]
+  "/Users/IG101/Documents/Heramb/StoreIT/StoreIT/StoreTask/StoreTask/View Controllers/CartViewController.swift": [1530702860, 0]
+  "/Users/IG101/Documents/Heramb/StoreIT/StoreIT/StoreTask/StoreTask/Model/Category.swift": [1530697319, 0]
